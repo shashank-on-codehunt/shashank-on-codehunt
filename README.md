@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hey Ya!!  I'm Shashank Sharma👋
 
-![Profile Banner](https://scubeangle.tech/assets/img/logo.png)
+![Profile Banner](https://github.com/shashank-on-codehunt/shashank-on-codehunt/blob/main/github-header-image.png)
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with a strong focus on Extreme Programming practices, Backend Development, and Cloud Computing. I thrive on solving complex problems and building scalable, efficient applications that make a difference. Leveraging my deep expertise in Java, Kafka, Spring Boot, and modern web technologies like React and TypeScript, I aim to create innovative solutions that push the boundaries of what's possible in the tech world. My commitment to continuous learning and improvement drives me to deliver high-quality software that meets user needs and exceeds industry standards.
@@ -68,3 +68,5 @@ I'm a passionate Full Stack Developer with a strong focus on Extreme Programming
 --->
 
 **Thank you for visiting my profile! Feel free to reach out to me.**
+
+![Profile Banner](https://scubeangle.tech/assets/img/logo.png)
