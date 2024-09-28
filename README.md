@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# You have Landed on Shashank Sharma Github Page👋
+# Hello I'm Shashank Sharma👋
 
 ![Profile Banner](https://scubeangle.tech/assets/img/logo.png)
 
