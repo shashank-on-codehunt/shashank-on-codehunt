@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shashank-on-codehunt/shashank-on-codehunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm Shashank Sharma 👋
+# You have Landed on Shashank Sharma Github Page👋
 
-![Profile Banner](https://example.com/your-banner-image.png)
+![Profile Banner](https://scubeangle.tech/assets/img/logo.png)
 
 ## 🚀 About Me
-I'm a Full Stack Developer with expertise in Extreme Programming practices, Backend Development, and Cloud. I have a deep passion for building scalable and efficient applications.
+I'm a passionate Full Stack Developer with a strong focus on Extreme Programming practices, Backend Development, and Cloud Computing. I thrive on solving complex problems and building scalable, efficient applications that make a difference. Leveraging my deep expertise in Java, Kafka, Spring Boot, and modern web technologies like React and TypeScript, I aim to create innovative solutions that push the boundaries of what's possible in the tech world. My commitment to continuous learning and improvement drives me to deliver high-quality software that meets user needs and exceeds industry standards.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shashank-on-codehunt&style=flat-square&color=blue)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/shashank-on-codehunt)](http://linkedin.com/in/shashank-on-codehunt)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/shashank-on-codehunt)](https://twitter.com/shashank-on-codehunt)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/shashank-on-codehunt)](http://linkedin.com/in/scubeangle)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/shashank-on-codehunt)](https://twitter.com/scubeAngle)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://yourwebsite.com)](https://scubeangle.tech)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashank4387@gmail.com)](mailto:shashank4387@gmail.com)
 
 ## 🚀 Skills
@@ -41,13 +41,17 @@ I'm a Full Stack Developer with expertise in Extreme Programming practices, Back
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
+<!--
 ## 🏆 GitHub Profile Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shashank-on-codehunt)
+
+---->
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashank-on-codehunt&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-on-codehunt&layout=compact&theme=radical)
 
+<!--
 ## 💼 Projects
 ### 🚀 Project Name One
 **Description:** A brief description of the project.
@@ -61,8 +65,6 @@ I'm a Full Stack Developer with expertise in Extreme Programming practices, Back
 
 ![Project Image or GIF](https://example.com/project-two-image.png)
 
----
+--->
 
 **Thank you for visiting my profile! Feel free to reach out to me.**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shashank-on-codehunt&style=flat-square&color=blue)](https://github.com/shashank-on-codehunt)
